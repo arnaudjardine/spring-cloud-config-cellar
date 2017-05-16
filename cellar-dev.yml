@@ -2,4 +2,4 @@ eu:
   europa:
     opoce:
       cellar:
-        foo: demo
+        foo: value
