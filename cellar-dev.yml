@@ -3,3 +3,4 @@ eu:
     opoce:
       cellar:
         foo: demo
+        bar: test
