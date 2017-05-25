@@ -2,5 +2,5 @@ eu:
   europa:
     opoce:
       cellar:
-        foo: demo
         bar: test
+        foo: updateValue
