@@ -4,3 +4,4 @@ eu:
       cellar:
         bar: test
         foo: updateValue
+        baz: true
